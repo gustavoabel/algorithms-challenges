@@ -1,3 +1,5 @@
+// primeira forma de solução.
+
 var search = function(nums, target) {
   var left = 0;
   var right = nums.length - 1;
@@ -14,7 +16,7 @@ var search = function(nums, target) {
   return -1;
 }
 
-// ou 
+// segunda forma de solução.
 
 var search = function(nums, target) {
   let left = 0
