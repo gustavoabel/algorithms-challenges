@@ -1,3 +1,8 @@
+/*Dada uma matriz de inteiros nums que é classificada em ordem crescente e um alvo inteiro, escreva uma função para pesquisar alvo em nums. 
+Se o destino existir, retorne seu índice. Caso contrário, retorne -1.
+
+Você deve escrever um algoritmo com complexidade de tempo de execução O(log n). */
+
 // primeira forma de solução.
 
 var search = function(nums, target) {
